@@ -1,0 +1,39 @@
+{
+  "name": "@stdlib/stats-incr-range",
+  "version": "0.0.0",
+  "description": "Compute a range incrementally.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/stats-incr-range.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "statistics",
+    "stats",
+    "mathematics",
+    "math",
+    "maximum",
+    "max",
+    "minimum",
+    "min",
+    "range",
+    "dispersion",
+    "variance",
+    "domain",
+    "extent",
+    "incremental",
+    "accumulator"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
